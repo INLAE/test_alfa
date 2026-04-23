@@ -49,7 +49,7 @@ order by value_day
 
 # 3. Когортный Анализ
 
-[Работа выполнена в Jupyter Notebook тут](task.ipynb)
+[Работа выполнена в Jupyter Notebook тут](pics/task.ipynb)
 
 Удержание активных клиентов
 <img src="pics/1_ac.png" alt="2) Результат" width="600" height="300">
